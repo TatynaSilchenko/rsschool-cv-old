@@ -34,7 +34,7 @@ Now I'm mastering Type Script.
 ###Code examples
 
 
-```Javascript
+```
    let onChangePassword=(e)=>{
         changePassword(e.currentTarget.value)
     };
