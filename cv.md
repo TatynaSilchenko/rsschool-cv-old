@@ -6,9 +6,9 @@
 
 [GitHub](https://github.com/TatynaSilchenko)
 
-
 [LinkedIn](http://linkedin.com/in/tatyana-silchenko-6bb8b4188)  
 
+taniasilchenko212@gamil.com
 
 ###Summary
 
@@ -49,9 +49,9 @@ freelance projects - 02/2019-present
 ###Education
 
 
-* 2009, EICC «SNOGO», Visual C++
+*2009, EICC «SNOGO», Visual C++
 
-* Higher, 2012, Belarussian state pedagodgical univercity named after Maxim Tank
+*Higher, 2012, Belarussian state pedagodgical univercity named after Maxim Tank
 
 ###English
 
