@@ -36,8 +36,8 @@ Now I'm mastering Type Script.
 
 ```
    let onChangePassword=(e)=>{
-              changePassword(e.currentTarget.value)
-          };
+        changePassword(e.currentTarget.value)
+    };
 ```
 
 ###Experience
@@ -49,9 +49,9 @@ freelance projects - 02/2019-present
 ###Education
 
 
-* 2009, EICC «SNOGO», Visual C++
+*2009, EICC «SNOGO», Visual C++
 
-* Higher, 2012, Belarussian state pedagodgical univercity named after Maxim Tank
+*Higher, 2012, Belarussian state pedagodgical univercity named after Maxim Tank
 
 ###English
 
